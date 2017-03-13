@@ -1,7 +1,7 @@
-LogRhythm Threat Research
-Remote File Extraction SmartResponse
-Matt Willems | @MattWillems | matt.willems@logrhythm.com
-v0.1 -- April, 2016
+		LogRhythm Threat Research
+		DisableADAccount SmartResponse
+		Matt Willems | @MattWillems | matt.willems@logrhythm.com
+		v0.1 -- April, 2016
 
 # SRP-DisableADAccount
 Disables a specified Active Directory account using either default Job Manager credentials or specified credentials.
